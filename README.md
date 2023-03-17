@@ -23,8 +23,8 @@ A Playground to add your Open Source Ideas and learn about Open Source community
 - LinkedIn URL:https://www.linkedin.com/in/lakshmi-tejasri-lankalapalli-7a5512231/
 
 # Awesome Contributors
-<a href="https://github.com/VizagOSM/playground/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=VizagOSM/playground" />
+<a href="https://github.com/Mr-Jerry-Haxor">
+  SHRAVAN JERIPOTHULA
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
