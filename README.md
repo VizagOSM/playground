@@ -2,13 +2,6 @@
 A Playground to add your Open Source Ideas and learn about Open Source community, culture, and practices on the go!
 
 # Format
-
-## SAI SAMPATH VYSYARAJU
-- Project title: Facial recognition using yolo5 algorithm
-- Description: Build a webpage, upload the images of individuals,identify if the people are available in the group photos captured by me and get a list of the people in the group photo.
-- Author: V SAI SAMPATH
-- LinkedIn URL: https://www.linkedin.com/in/sai-sampath-vysyaraju-841844216/
-
 ## SHRAVAN JERIPOTHULA
 - Project title: OpenWeb
 - Description: This open source project focuses primarily on web development, allowing for the incorporation of new UI designs and UX code into the development process.
