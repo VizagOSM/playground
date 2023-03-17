@@ -3,6 +3,13 @@ A Playground to add your Open Source Ideas and learn about Open Source community
 
 # Format
 
+## Shravan
+- Project title: DEMO project
+- Description:  Hello team, for being here and explain what the open source and  how can create a carear with open source, this was a great session. 
+- Author: shravan 
+- LinkedIn URL:  https://in.linkedin.com/in/shravanjeripothula?trk=public_post_feed-actor-name
+=======
+
 ## SAI SAMPATH VYSYARAJU
 - Project title: Facial recognition using yolo5 algorithm
 - Description: Build a webpage, upload the images of individuals,identify if the people are available in the group photos captured by me and get a list of the people in the group photo.
@@ -16,6 +23,7 @@ A Playground to add your Open Source Ideas and learn about Open Source community
 - LinkedIn URL: https://in.linkedin.com/in/shravanjeripothula?trk=public_post_feed-actor-name
 - Github Profile: https://github.com/Mr-Jerry-Haxor
 
+
 # Awesome Contributors
 <a href="https://github.com/Mr-Jerry-Haxor">
   SHRAVAN JERIPOTHULA
@@ -25,4 +33,3 @@ A Playground to add your Open Source Ideas and learn about Open Source community
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
-
